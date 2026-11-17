@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Nguyen Tuan Hung,"Rà overlay; chưa thấy lỗi nhãn rõ trong ảnh mẫu."
+img_006.jpg,,khong,Nguyen Tuan Hung,"Cảnh đông, có các box chồng lấn; tôi đã rà soát và không ghi nhận lỗi cần sửa."
+img_014.jpg,,khong,Nguyen Tuan Hung,"Rà overlay; chưa thấy lỗi nhãn rõ trong ảnh mẫu."
+img_031.jpg,414,sai_vi_tri_kich_thuoc,Nguyen Tuan Hung,"Người bán có nhãn person riêng, không gộp vào bicycle. Box bicycle quá rộng và lấn sang vùng người/nền; cần thu gọn theo guideline. ID trên CVAT là 420; ID annotation COCO là 414. Giỏ hàng gắn cố định được tính theo quy tắc xe đạp chở hàng."
+img_035.jpg,,khong,Nguyen Tuan Hung,"Rà overlay; chưa thấy lỗi nhãn rõ trong ảnh mẫu."
