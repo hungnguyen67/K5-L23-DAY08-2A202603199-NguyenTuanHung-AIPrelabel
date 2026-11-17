@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: hungnguyen67
 - Repo bài nộp (URL): https://github.com/hungnguyen67/K5-L23-DAY08-2A202603199-NguyenTuanHung-AIPrelabel.git
-- Commit chốt bài (hash): Chưa chốt; HEAD hiện tại là `00fbe1a6c52c23f3e57525ff7fb2c5fe807b9aef`, nhưng các thay đổi đang có chưa được commit.
+- Commit chốt bài (hash): 8ae8dbca2fc6fc6921b1ce45ed3f93147ebdcecf
 - Máy: Windows; chạy model bằng CPU
 - CVAT (Docker): v2.74.1
 
